@@ -1,5 +1,9 @@
-# Jenkins-Maven-Docker-S3
+# Jenkins-Docker-ECR-EKS 
 
-![1](https://github.com/VardhanLearn/Git-Maven-Docker-S3/assets/87961252/479693df-7715-45fc-960c-2627a2adce04)
+![EKS](https://github.com/VardhanLearn/Jenkins-Docker-ECR-EKS/assets/87961252/33a052b6-681e-4678-979e-dc1d8e22dc4d)
+
+![Jenkins Pipeline of EKS](https://github.com/VardhanLearn/Jenkins-Docker-ECR-EKS/assets/87961252/ffd4d018-b2d3-48aa-8c92-914318f2f1a7)
+
+
 
 
